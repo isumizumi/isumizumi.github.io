@@ -1,0 +1,117 @@
+/*style body*/
+body {
+  font-family: serif, Arial, Courier;
+  background-image: url("sakura.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+/*style class=header*/
+.header {
+  background-color: rgb(255, 204, 0);
+  color: rgb(220, 20, 60);
+  line-height: 50px;
+  margin: 0;
+  padding: 0;
+  border-style: dashed;
+  border-color: black;
+  border-width: thick;
+  box-sizing: border-box;
+  position: relative;
+}
+
+/*style h1*/
+h1 {
+  font-family: sans-serif;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  word-spacing: 0.03em;
+}
+
+/*style id=p*/
+#p {
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 0em;
+}
+
+/*style class=body*/
+.body {
+  background-color: rgb(255, 255, 255);
+}
+
+/*style div body*/
+div.body{
+  border: 1px solid #000;
+  box-sizing: border-box;
+  margin: 40px;
+  padding: 40px;
+}
+
+/*style id=myprofile*/
+#myprofile {
+  width: 300px;
+  height: 300px;
+  border: 3px solid black;
+  border-radius: 500px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+/*style id=pb*/
+#pb1, #pb2, #pb3, #pb4 {
+  font-weight: bold;
+}
+
+/*style class=tabel*/
+.tabel {
+  border: 1px solid; 
+}
+
+/*style id=act*/
+#act {
+  color: rgb(175, 8, 8);
+  font-size: 30px;
+  text-align: center;
+  font-style: bold;
+}
+
+/*style class=comment*/
+.comment {
+  font-family: Courier, Arial, serif;
+  color: rgb(220, 20, 60);
+  text-transform: capitalize;
+  background: -webkit-linear-gradient(yellow, lightgreen);
+}
+
+/*style div comment*/
+div.comment {
+  border-style: none none none outset;
+  border-radius: 50px 0px 0px 50px;
+  border-width: 10px;
+  border-color: #000;
+  box-sizing: border-box;
+  width: 50%;
+  height: auto;
+  float: right;
+  clear: right;
+  margin-right: -70px;
+  padding: 30px 40px;
+}
+
+/*style id=h3*/
+#h3 {
+  text-align: center;
+  word-spacing: 3px;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: Courier, serif, Arial;
+}
