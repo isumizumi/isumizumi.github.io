@@ -1,6 +1,6 @@
 # Welcome everyone!
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+[![](http://www.iszumi.com/sites/default/files/Logo_2.jpg)](http://www.iszumi.com)
 
 
 Hi, I am Isumi Karinaningsih. Let's be a fullstack developer!
@@ -48,3 +48,12 @@ My accounts in social media platform are linked below.
 | Google Plus | [https://plus.google.com/101498873662196123612](plus.google.com/101498873662196123612) |
 | LinkedIn | [https://www.linkedin.com/in/isumi-karinaningsih-1183975b](linkedin.com/in/isumi-karinaningsih-1183975b) |
 | Selasar | [https://www.selasar.com/profile/5167/Isumi-Karinaningsih](selasar.com/profile/5167/Isumi-Karinaningsih) |
+
+
+Best regards,
+
+
+Isumi Karinaningsih
+[Founder (www.sehati.net)]
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
