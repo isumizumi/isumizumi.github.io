@@ -49,6 +49,7 @@ My accounts in social media platform are linked below.
 | Account | Link |
 | ------ | ------ |
 | Facebook | [facebook.com/isumi.karina](https://www.facebook.com/isumi.karina) |
+| Instagram | [instagram.com/isumi_karina](https://www.instagram.com/isumi_karina/) |
 | Twitter | [twitter.com/oisumio](https://twitter.com/oisumio) |
 | Google Plus | [plus.google.com/isumi](https://plus.google.com/101498873662196123612) |
 | LinkedIn | [linkedin.com/in/isumi-karinaningsih](https://www.linkedin.com/in/isumi-karinaningsih-1183975b) |
