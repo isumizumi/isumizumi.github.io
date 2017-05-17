@@ -11,6 +11,10 @@ These are my missions:
   -  Develop a beautiful website
   -  Create a wonderful mobile app
 
+> People are like books.
+> Each is unique, like me!
+> I'm happy to be unique!
+
 # Keep contact!
 
  Here is my contact list:
@@ -19,13 +23,10 @@ These are my missions:
      
   -  Project email:
      [sehatine@sehati.net]
+   
+# Follow me on Github!
 
 # [![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)](http://www.github.com/isumizumi)
-
-> People are like books.
-> Each is unique, like me!
-> I'm happy to be unique!
-
 
 ### Installation
 
@@ -50,7 +51,6 @@ My accounts in social media platform are linked below.
 | LinkedIn | [linkedin.com/in/isumi-karinaningsih](https://www.linkedin.com/in/isumi-karinaningsih-1183975b) |
 | Selasar | [selasar.com/Isumi-Karinaningsih](https://www.selasar.com/profile/5167/Isumi-Karinaningsih) |
 
-
 ### Ciao!
 
 All the best!
@@ -59,7 +59,7 @@ Best regards,
 
 
 
-Isumi Karinaningsih
+> Isumi Karinaningsih
 
 [Founder Sehati]
 
