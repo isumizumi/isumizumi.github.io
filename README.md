@@ -13,7 +13,8 @@ These are my missions:
 
 > People are like books.
 > Each is unique, like me!
-> I'm happy to be unique!
+
+> Unique is my middle name.
 
 # Keep contact!
 
