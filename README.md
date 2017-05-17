@@ -1,6 +1,6 @@
 # Welcome everyone!
 
-[![@|iszumi.com](http://www.iszumi.com/sites/default/files/Logo_2.jpg)](http://www.iszumi.com)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 Hi, I am Isumi Karinaningsih. Let's be a fullstack developer!
 This is my target list:
