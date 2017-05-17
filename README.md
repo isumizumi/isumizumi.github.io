@@ -1,6 +1,6 @@
 # Welcome everyone!
 
-[![](http://www.iszumi.com/sites/default/files/Logo_2.jpg)](http://www.iszumi.com)
+# [![](http://www.iszumi.com/sites/default/files/Logo_2.jpg)](http://www.iszumi.com)
 
 
 Hi, I am Isumi Karinaningsih. Let's be a fullstack developer!
@@ -20,7 +20,7 @@ This is my target list:
   -  Project email:
      [sehatine@sehati.net]
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+# ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 > People are like books.
 > Each is unique, like me!
@@ -61,4 +61,4 @@ Isumi Karinaningsih
 [Founder (www.sehati.net)]
 
 
-![](http://sehati.net/sites/default/files/Logo%20Sehati_Favicon.png)
+# ![](http://sehati.net/sites/default/files/Logo%20Sehati_Favicon.png)
