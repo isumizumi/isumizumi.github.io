@@ -42,7 +42,7 @@ $ npm install rupiah_in_words
 
 My accounts in social media platform are linked below.
 
-| App | Link |
+| Account | Link |
 | ------ | ------ |
 | Facebook | [facebook.com/isumi.karina](https://www.facebook.com/isumi.karina) |
 | Twitter | [twitter.com/oisumio](https://twitter.com/oisumio) |
