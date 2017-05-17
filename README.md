@@ -15,7 +15,7 @@ This is my target list:
 
  Here is my contact:
   -  Personal email: 
-     [isumi.karinaningsih@gmail.com] | [iszumico@iszumi.com]
+     [isumi.karina72@gmail.com] | [isumi_karina@yahoo.co.id] | [iszumico@iszumi.com]
      
   -  Project email:
      [sehatine@sehati.net]
