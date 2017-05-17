@@ -18,11 +18,11 @@ This is my target list:
   -  Project email:
      sehatine@sehati.net
 
-> "
+
 > People are like books.
 > Each is unique, like me!
 > I'm happy to be unique!
-> "
+
 
 ### Installation
 
