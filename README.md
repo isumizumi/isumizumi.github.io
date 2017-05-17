@@ -20,6 +20,7 @@ This is my target list:
   -  Project email:
      [sehatine@sehati.net]
 
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 > People are like books.
 > Each is unique, like me!
@@ -59,4 +60,5 @@ Isumi Karinaningsih
 
 [Founder (www.sehati.net)]
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+![](http://sehati.net/sites/default/files/Logo%20Sehati_Favicon.png)
