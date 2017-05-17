@@ -34,7 +34,7 @@ My first npm project is about convert number in words.
 Let's try to install:
 
 ```sh
-[https://www.npmjs.com/package/rupiah_in_words](npmjs.com/package/rupiah_in_words)
+[npmjs.com/package/rupiah_in_words](https://www.npmjs.com/package/rupiah_in_words)
 $ npm install rupiah_in_words
 ```
 
