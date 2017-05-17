@@ -5,7 +5,7 @@
 
 Hi, I am Isumi Karinaningsih. Let's be a Full Stack Developer!
 
-This is my target list:
+These are my missions:
 
   -  Being a full-stack developer
   -  Develop a beautiful website
@@ -13,7 +13,7 @@ This is my target list:
 
 # Keep contact!
 
- Here is my contact:
+ Here is my contact list:
   -  Personal email: 
      [isumi.karina72@gmail.com] | [isumi_karina@yahoo.co.id] | [iszumico@iszumi.com]
      
@@ -53,12 +53,12 @@ My accounts in social media platform are linked below.
 
 ### Ciao!
 
+All the best!
 Best regards,
 
 
 
 Isumi Karinaningsih
-
 [Founder Sehati]
 
 
