@@ -50,10 +50,13 @@ My accounts in social media platform are linked below.
 | Selasar | [https://www.selasar.com/profile/5167/Isumi-Karinaningsih](selasar.com/profile/5167/Isumi-Karinaningsih) |
 
 
+### Ciao!
+
 Best regards,
 
 
 Isumi Karinaningsih
+
 [Founder (www.sehati.net)]
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
