@@ -1,18 +1,44 @@
-### isumizumi.github.io
-Hacktiv8_Phase0_Week1Day5
+# Welcome everyone!
 
-#Hello World!
+[![@|iszumi.com](http://www.iszumi.com/sites/default/files/Logo_2.jpg)](http://www.iszumi.com)
 
-##Hai, guys!
+Hi, I am Isumi Karinaningsih. Let's be a fullstack developer!
+This is my target list:
 
-Trust me, learning and coding in Hacktiv8: so **_hard_**! >_<
+  - Being a fullstack developer
+  - Develop a beautiful website
+  - Create a wonderful mobile app
 
-I will **complete** these lessons! 
+# Keep contact!
 
-Now, i will always use github: [Go GitHub!](www.github.com)
+ Here is my contact:
+  - Personal email: 
+    isumi.karinaningsih@gmail.com | iszumico@iszumi.com
+  - My project email:
+    sehatine@sehati.net
 
-###Wish me luck! Thank you! 
+> "People are like books.
+> Each is unique, like me!
+> I'm happy to be unique!"
 
-All the best,
+### Installation
 
-_Isumi Karina_
+My first npm project is about convert number in words.
+Install:
+
+```sh
+https://www.npmjs.com/package/rupiah_in_words
+$ npm install rupiah_in_words
+```
+
+### Social Media
+
+My accounts in social media platform are linked below.
+
+| App | Link |
+| ------ | ------ |
+| Facebook | https://www.facebook.com/isumi.karina |
+| Twitter | https://twitter.com/oisumio |
+| Google Plus | https://plus.google.com/101498873662196123612 |
+| LinkedIn | https://www.linkedin.com/in/isumi-karinaningsih-1183975b/ |
+| Selasar | https://www.selasar.com/profile/5167/Isumi-Karinaningsih |
