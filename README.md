@@ -26,6 +26,8 @@ These are my missions:
    
 # Follow me on Github!
 
+If you want to see my portfolio projects, just click this:
+
 # [![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)](http://www.github.com/isumizumi)
 
 ### Installation
@@ -35,7 +37,7 @@ My first npm project is about convert number in words.
 Let's try to install:
 
 ```sh
-[npmjs.com/package/rupiah_in_words](https://www.npmjs.com/package/rupiah_in_words)
+(https://www.npmjs.com/package/rupiah_in_words)
 $ npm install rupiah_in_words
 ```
 
@@ -56,6 +58,7 @@ My accounts in social media platform are linked below.
 All the best!
 
 Best regards,
+
 
 
 
