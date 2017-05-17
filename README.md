@@ -1,30 +1,34 @@
 # Welcome everyone!
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 Hi, I am Isumi Karinaningsih. Let's be a fullstack developer!
+
 This is my target list:
 
-  - Being a fullstack developer
-  - Develop a beautiful website
-  - Create a wonderful mobile app
+  -  Being a fullstack developer
+  -  Develop a beautiful website
+  -  Create a wonderful mobile app
 
 # Keep contact!
 
  Here is my contact:
-  - Personal email: 
-    isumi.karinaningsih@gmail.com | iszumico@iszumi.com
-  - Project email:
-    sehatine@sehati.net
+  -  Personal email: 
+     isumi.karinaningsih@gmail.com | iszumico@iszumi.com
+     
+  -  Project email:
+     sehatine@sehati.net
 
-> "People are like books.
+> "
+> People are like books.
 > Each is unique, like me!
-> I'm happy to be unique!"
+> I'm happy to be unique!
+> "
 
 ### Installation
 
 My first npm project is about convert number in words.
-Install:
+
+Let's try to install:
 
 ```sh
 https://www.npmjs.com/package/rupiah_in_words
