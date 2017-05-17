@@ -1,5 +1,7 @@
 # Welcome everyone!
 
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
 
 Hi, I am Isumi Karinaningsih. Let's be a fullstack developer!
 
