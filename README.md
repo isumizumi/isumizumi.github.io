@@ -14,7 +14,7 @@ This is my target list:
  Here is my contact:
   - Personal email: 
     isumi.karinaningsih@gmail.com | iszumico@iszumi.com
-  - My project email:
+  - Project email:
     sehatine@sehati.net
 
 > "People are like books.
