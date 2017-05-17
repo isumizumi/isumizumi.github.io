@@ -3,11 +3,11 @@
 # [![](http://www.iszumi.com/sites/default/files/Logo_2.jpg)](http://www.iszumi.com)
 
 
-Hi, I am Isumi Karinaningsih. Let's be a fullstack developer!
+Hi, I am Isumi Karinaningsih. Let's be a Full Stack Developer!
 
 This is my target list:
 
-  -  Being a fullstack developer
+  -  Being a full-stack developer
   -  Develop a beautiful website
   -  Create a wonderful mobile app
 
